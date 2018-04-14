@@ -1,0 +1,13 @@
+#game{
+	width: 100%;
+}
+
+#container{
+	margin: 0 auto;
+	width: 620px;
+}
+
+.card{
+	display: inline-block;
+	width: 150px;
+}
